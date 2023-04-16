@@ -1,7 +1,7 @@
 {
 	"name": "@brj-typescript/system",
 	"version": "1.0.0",
-	"description": "Yarn template",
+	"description": "BRJ core system.",
 	"main": "index.js",
 	"module": "./lib/index.js",
 	"types": "./lib/index.d.ts",
