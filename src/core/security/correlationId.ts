@@ -1,3 +1,3 @@
-import { v4 as uuidv4 } from 'uuid';
+import { uuid } from '../uuid/uuid';
 
-export const correlationId = () => uuidv4().replace(/-/g, '');
+export const correlationId = () => uuid().replace(/-/g, '');

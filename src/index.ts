@@ -14,6 +14,7 @@ export * from './core/string/highlightString';
 export * from './core/string/htmlSpecialCharsDecode';
 export * from './core/utils/getCoordsDistance';
 export * from './core/utils/resolveDevice';
+export * from './core/uuid/uuid';
 export * from './features/HelpCenter';
 export * from './features/HelpCenter/ForgottenPassword';
 export * from './features/HelpCenter/ForgottenUsername';
