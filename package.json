@@ -1,6 +1,6 @@
 {
 	"name": "@brj-typescript/system",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"description": "BRJ core system.",
 	"main": "index.js",
 	"module": "./lib/index.js",
