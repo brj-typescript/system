@@ -1,3 +1,5 @@
+'use client';
+
 import React, { ReactNode, useState } from 'react';
 import { Box, Button, ButtonBase, Typography } from '@mui/material';
 import { ForgottenPassword } from './ForgottenPassword';

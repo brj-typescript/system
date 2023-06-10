@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useEffect } from 'react';
 import { Box, MenuItem, TextField } from '@mui/material';
 import { useLocalization, useCas, resolveLocaleFlag, localeToLabel } from '@brj-typescript/global-context';

@@ -1,3 +1,5 @@
+'use client';
+
 import React, { FC, useState } from 'react';
 import { Box, Button, CircularProgress, FormControlLabel, FormGroup, Switch, TextField } from '@mui/material';
 import { SubmitHandler, useForm } from 'react-hook-form';
